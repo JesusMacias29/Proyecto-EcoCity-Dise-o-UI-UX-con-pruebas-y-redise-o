@@ -59,7 +59,7 @@ El objetivo de este proyecto es diseñar, prototipar, evaluar y mejorar la inter
 
 El proyecto está organizado en las siguientes carpetas:
 
-- **/figma**: [Enlace al prototipo en Figma](https://www.figma.com/file/xxx) (Reemplaza este enlace con el enlace real de tu archivo Figma).
+- **/figma**: ([https://www.figma.com/file/xxx](https://www.figma.com/make/xrscjkgXzl492web5DJit3/Music-creation-tool?t=gTsuTfFUHyYGB1jv-20&fullscreen=1&preview-route=%2Flogin)) 
 - **/documentacion**: Documentación GUI en formato PDF, que incluye las decisiones de diseño y los resultados de las pruebas.
 - **/pruebas_usabilidad**: Plan, resultados y análisis de las pruebas de usabilidad.
 - **/imagenes**: Recursos visuales utilizados en el diseño de la app.
