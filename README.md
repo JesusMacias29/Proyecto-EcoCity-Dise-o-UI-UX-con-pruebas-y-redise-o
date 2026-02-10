@@ -1,5 +1,7 @@
 # **EcoCity - Aplicación de Reporte de Incidencias Urbanas 🌆**
 
+## JESÚS MACÍAS / CARLOS SÁNCHEZ
+
 **EcoCity** es una aplicación móvil diseñada para facilitar el reporte y seguimiento de incidencias urbanas, como baches, farolas rotas, basuras y más. El objetivo principal de la aplicación es proporcionar a los usuarios una forma fácil y rápida de reportar problemas en su ciudad y darles seguimiento en tiempo real.
 
 ## **Objetivo del Proyecto 🎯**
