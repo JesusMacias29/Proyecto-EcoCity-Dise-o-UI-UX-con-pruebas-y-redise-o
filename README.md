@@ -67,7 +67,7 @@ El proyecto está organizado en las siguientes carpetas:
 
 ## **Canva 🎨**
 
-El diseño de la presentación y la información del proyecto están disponibles en **Canva**. Puedes acceder al proyecto de presentación aquí: [Enlace a la presentación de Canva]([https://www.canva.com/design/xxx](https://www.canva.com/design/DAHA6WUJS5c/UBaLyo-lWUx4vipAvXtx_A/edit?utm_content=DAHA6WUJS5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
+El diseño de la presentación y la información del proyecto están disponibles en **Canva**. Puedes acceder al proyecto de presentación aquí: (https://www.canva.com/design/DAHA6WUJS5c/UBaLyo-lWUx4vipAvXtx_A/edit?utm_content=DAHA6WUJS5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## **Conclusión 🏁**
 
